@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(learningLinux VERSION 1.0 DESCRIPTION "Package built example")
+project(learningLinux VERSION 1.1 DESCRIPTION "Package built example")
 
 add_executable(learningLinux_bin src/learningLinux_bin.c)
 
